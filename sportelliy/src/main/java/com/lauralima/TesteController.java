@@ -12,7 +12,7 @@ import javafx.scene.control.TabPane;
 import javafx.scene.control.TextField;
 import javafx.scene.image.ImageView;
 
-public class inicio {
+public class TesteController {
 
     @FXML
     private ChoiceBox<?> CBChoiceBoxEquipamentos;
@@ -162,6 +162,7 @@ public class inicio {
     }
 
 }
+
 
 
 
